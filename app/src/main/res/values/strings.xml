@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CFTtask</string>
+    <string name="text_input">Input numbers!</string>
+    <string name="edit_input">Input whatever</string>
+    <string name="button_calc">Calculate</string>
+    <string name="text_result">Result :</string>
+</resources>
